@@ -1,11 +1,14 @@
 #Step 1: Build Database
-```singularity run /oak/stanford/groups/dpetrov/armstrong/applications/singularity-containers/dfam-tetools-latest.sif BuildDatabase -name greyfox_repmask greyfox-dovetail-final.fasta
+```
+singularity run /oak/stanford/groups/dpetrov/armstrong/applications/singularity-containers/dfam-tetools-latest.sif BuildDatabase -name greyfox_repmask greyfox-dovetail-final.fasta
 ```
 
 #Step 2: Repeat Modeler
-```singularity run /oak/stanford/groups/dpetrov/armstrong/applications/singularity-containers/dfam-tetools-latest.sif RepeatModeler -database greyfox_repmask -threads 32 
+```
+singularity run /oak/stanford/groups/dpetrov/armstrong/applications/singularity-containers/dfam-tetools-latest.sif RepeatModeler -database greyfox_repmask -threads 32 
 ```
 
 #Step 3: Repeat Masker
-```singularity run /oak/stanford/groups/dpetrov/armstrong/applications/singularity-containers/dfam-tetools-latest.sif RepeatMasker greyfox-dovetail-final.fasta -lib RM_28818.WedAug160217552023/consensi.fa.classified -pa 24 --xsmall
+```
+singularity run /oak/stanford/groups/dpetrov/armstrong/applications/singularity-containers/dfam-tetools-latest.sif RepeatMasker greyfox-dovetail-final.fasta -lib RM_28818.WedAug160217552023/consensi.fa.classified -pa 24 --xsmall
 ```
