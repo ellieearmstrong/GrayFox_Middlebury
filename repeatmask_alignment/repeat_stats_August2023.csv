@@ -1,0 +1,15 @@
+Common_Name,Species,Genome_Assembly,Total Repeat Content,SINEs,LINEs,LTRs,DNA Transposons,Unclassified,Small RNA,Satellites,Simple Repeats,Low Complexity
+Domestic dog,Canis lupus familiaris,GCA_905319855.2,33.67%,0.07,0.17,0.03,0.02,0.03,0.07,0.00,0.02,0.00
+Gray Wolf,Canis lupus,GCA_905319855.2,33.21%,0.08,0.16,0.04,0.02,0.02,0.07,0.00,0.02,0.00
+Dingo,Canis lupus dingo,GCF_003254725.2,31.53%,0.09,0.15,0.03,0.02,0.01,0.08,0.00,0.02,0.00
+African wild dog,Lycaon pictus,DNAZoo,30.16%,0.09,0.14,0.03,0.02,0.00,0.08,0.00,0.02,0.00
+Maned wolf,Chrysocyon brachyurus,GCA_028533335.1,30.65%,0.09,0.14,0.03,0.02,0.00,0.08,0.00,0.02,0.00
+Bush dog,Speothos venaticus,GCA_023170115.1,30.01%,0.09,0.13,0.03,0.02,0.00,0.08,0.00,0.02,0.00
+Raccoon dog,Nyctereutes procyonoides,GCF_905146905.1,30.89%,0.09,0.15,0.03,0.02,0.00,0.08,0.00,0.02,0.00
+Bat-eared fox,Otocyon megalotis,DNAZoo,32.55%,0.09,0.14,0.03,0.02,0.01,0.08,0.00,0.03,0.01
+Corsac fox,Vulpes corsac,GCA_030463245.1,31.30%,0.09,0.15,0.03,0.02,0.00,0.08,0.00,0.02,0.00
+Tibetan sand fox,Vulpes ferrilata,GCA_024500485.1,32.24%,0.08,0.17,0.03,0.02,0.00,0.07,0.00,0.02,0.00
+Arctic fox,Vulpes lagopus,GCF_018345385.1,31.29%,0.09,0.15,0.03,0.02,0.01,0.08,0.00,0.02,0.00
+Red fox,Vulpes vulpes,DNAZoo,29.09%,0.09,0.13,0.03,0.02,0.00,0.08,0.00,0.02,0.00
+Island fox,Urocyon littoralis,DNAZoo,31.33%,0.09,0.14,0.03,0.02,0.00,0.08,0.00,0.03,0.00
+Gray fox,Urocyon cinereoargenteus,This study,38.23%,0.06,0.17,0.03,0.01,0.01,0.05,0.00,0.09,0.01
